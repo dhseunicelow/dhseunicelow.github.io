@@ -1,17 +1,18 @@
- h1<
-  font-family: verdana;
-  color:pink;
->
+<link rel="stylesheet" href="/style.css" />
+h1{
+  font-family: Lobster;
+  color:purple;
+}
 
- h2<
+ ul{
   font-family: verdana;
   color:blue;
->
+}
 
-p<
+p{
  font-family: verdana;
->
+}
 
-body <
-    background-color: #b3ffff;
->
+body {
+    background-color: #ff6666;
+}
